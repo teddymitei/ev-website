@@ -1,6 +1,6 @@
 .hero{
     margin: 0px 120px;
-    margin-top: 270px;
+    margin-top: 200px;
 }
 
 .hero-text{
@@ -8,7 +8,6 @@
     font-size: 110px;
     font-weight: 500;
     line-height: 130px;
-    margin-top: 5px;
 }
 
 .hero-explore{
